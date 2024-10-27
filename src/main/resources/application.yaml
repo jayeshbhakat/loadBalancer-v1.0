@@ -1,0 +1,4 @@
+server.port: 8081
+spring.application.name: loadBalancer-v1.0
+loadBalance.algorithm: "roundRobin"
+service.name: "load-balancer"
